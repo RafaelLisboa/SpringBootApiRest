@@ -1,11 +1,12 @@
-# SpringBootApiRest
+# SpringBootApiRest ☕
+
 
  - This is my first api rest project using Spring Boot, Java and MySQL
  
-## Operation
+## Operation ⚙
  - The project is simple, it only receives Post and Get requests at addresses to consult and save in the database
 
-## Objective
+## Objective 📚
 
  - Start studies with MVC in Java with Spring, in addition to mapping the database through an entity class and using a controller to persist data in the database and save
 
