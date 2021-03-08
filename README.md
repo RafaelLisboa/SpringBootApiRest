@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-Java-orange)
+![](https://img.shields.io/github/license/RafaelLisboa/SpringBootApiRest?style=flat-square)
 # SpringBootApiRest ☕
 
 
